@@ -1,0 +1,17 @@
+{
+  "name": "Lazzat — QR Buyurtma",
+  "short_name": "Lazzat",
+  "description": "Stoldagi QR kod orqali tez buyurtma bering.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
