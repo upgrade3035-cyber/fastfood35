@@ -50,7 +50,7 @@
     "@tanstack/router-plugin": "1.168.23",
     "@tanstack/start-client-core": "1.170.14",
     "@tanstack/start-plugin-core": "1.171.24",
-    "@tanstack/start-server-core": "1.169.17",
+    "@tanstack/start-server-core": "1.169.39",
     "@vladmandic/face-api": "^1.7.15",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
